@@ -8,7 +8,8 @@ This repository countain source code and documentation for a **STD Band: Heart r
 - [Technologies](#technologies)
 
 ## **Document**
-The documentation of STD Band is [here](https://drive.google.com/drive/folders/1ZmNQvIJdfTXwe98rhWUClaMcGs5UiH7O?usp=sharing)
+The documentation of STD Band is [here](https://youtu.be/BopHi5Fg6vo?si=XMD4FWXXtRpWB5f0)
+and our Social Media [instagram](https://www.instagram.com/std.band?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ## **Features**
 1. **Heart Rate Detection and Monitoring System**
