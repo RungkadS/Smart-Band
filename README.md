@@ -1,4 +1,4 @@
-![Title](https://github.com/RungkadS/Smart-Band/Header.png)
+![Title](https://github.com/RungkadS/blob/main/Smart-Band/Header.png)
 
 # STD Band
 
