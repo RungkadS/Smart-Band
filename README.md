@@ -1,5 +1,4 @@
-![alt text](https://github.com/[username]/RungkadS/Smart-Band/Header.png?raw=true)
-
+![Title](https://github.com/RungkadS/Smart-Band/Header.png)
 # STD Band
 
 This repository countain source code and documentation for a **STD Band: Heart rate and Sweat Rate Monitoring System for Early Detection Children Mental Health**, created to detecting child mental health by integrating a sensor to the web IoT software platform Blynk.
